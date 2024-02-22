@@ -1,8 +1,8 @@
 # Beamng-Mod-menu-V1.0-Beta
 # Beamng Mod Menu V1.0 Beta it hasnt Completed yet im working in it last month ,So it has Many Things 
-# Car booster , 
-# Swap engines and other things , 
-# There Will be More Soon ,  So check it out.
+# Car booster
+# Swap engines and other things 
+# There Will be More Soon  So check it out.
 
 
 
@@ -21,7 +21,7 @@ it has A few steps
 
 
 
-Just these steps
+# Just these steps
 
 # I Will Work On the other things 
 
