@@ -8,8 +8,9 @@
 
 
 
-How To Download it?
-it has A few steps
+# How To Download it? 
+
+# it has A few steps
 
 # 1.Make Sure To Open it Before you open the game
 
